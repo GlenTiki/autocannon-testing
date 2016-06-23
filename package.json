@@ -1,0 +1,27 @@
+{
+  "name": "autocannon-testing",
+  "version": "1.0.0",
+  "description": "A playground for messing with Mcollina's auto-cannon",
+  "main": "index.js",
+  "dependencies": {
+    "autocannon": "^0.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thekemkid/autocannon-testing.git"
+  },
+  "keywords": [
+    "autocannon",
+    "load-testing"
+  ],
+  "author": "Glen Keane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thekemkid/autocannon-testing/issues"
+  },
+  "homepage": "https://github.com/thekemkid/autocannon-testing#readme"
+}
