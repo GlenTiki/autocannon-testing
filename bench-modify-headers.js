@@ -23,5 +23,5 @@ function nextHeader () {
 }
 
 function finishedBench (err, res) {
-  console.log('finished bench', err, res)
+  // console.log('finished bench', err, res)
 }

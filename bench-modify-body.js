@@ -17,5 +17,5 @@ instance.on('response', function (client, statusCode, returnBytes, responseTime)
 })
 
 function finishedBench (err, res) {
-  console.log('finished bench', err, res)
+  // console.log('finished bench', err, res)
 }
